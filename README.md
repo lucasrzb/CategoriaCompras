@@ -10,5 +10,7 @@ Entretanto o projeto e só uma ideia criativa para ter experiencia e aprendizado
  - INPUT = INTERAÇÃO ENTRE USUARIO E O CODIGO 
  - USO BASICO DE OPERADORES ARITMÉTICOS
  - valor_item = Preço de cada comida
+
+📑 Arquivo do codigo: https://github.com/lucasrzb/CardapioEspecial/blob/main/cardapioespc.py
    
   🎆Espero que teste e goste do projeto ❤️
