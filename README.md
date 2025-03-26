@@ -12,5 +12,8 @@ Entretanto o projeto e só uma ideia criativa para ter experiencia e aprendizado
  - valor_item = Preço de cada comida
 
 📑 Arquivo do codigo: https://github.com/lucasrzb/CardapioEspecial/blob/main/cardapioespc.py
+
+📁 O que mudou na Versão 1.5?
+https://github.com/lucasrzb/CardapioEspecial/releases/tag/update
    
   🎆Espero que teste e goste do projeto ❤️
