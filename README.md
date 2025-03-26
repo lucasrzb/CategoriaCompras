@@ -1,6 +1,6 @@
-🚀Cardápio Especial Version 1.0
+🚀Cardápio Especial Versão 1.5
 
-A ideia e criar um cardápio  'louco' que contém uma breve descrição sobre o produto, e que ao comprar o valor seja subtraido ao valor da carteira inicial  assim fazendo um loop sempre que comprar um produto, em breve irei arrumar para que a carteira fique salva com o valor subtraido ao fazer o loop... 
+A ideia e criar um cardápio  'louco' que contém uma breve descrição sobre o produto, no qual o usuario consiga selecionar o que ele quer assim comprando ou não a comida desejada.  
 Entretanto o projeto e só uma ideia criativa para ter experiencia e aprendizado na area...
 
 💻 Usos no código:
@@ -8,7 +8,7 @@ Entretanto o projeto e só uma ideia criativa para ter experiencia e aprendizado
  - LOOP / WHILE TRUE = SEMPRE QUE TERMINAR UMA CONDIÇÃO ELE IRA VOLTAR AO CARDÁPIO MENU 
  - PRINT = USO PARA MENSAGENS E DESCRIÇÕES 
  - INPUT = INTERAÇÃO ENTRE USUARIO E O CODIGO 
- - USO BASICO DE POO
  - USO BASICO DE OPERADORES ARITMÉTICOS
-
+ - valor_item = Preço de cada comida
+   
   🎆Espero que teste e goste do projeto ❤️
