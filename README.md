@@ -16,5 +16,8 @@ Entretanto o projeto e só uma ideia criativa para ter experiencia e aprendizado
 
 📁 O que mudou na Versão 1.6?
 [https://github.com/lucasrzb/CardapioEspecial/releases/tag/update](https://github.com/lucasrzb/CardapioEspecial/releases/tag/update1-6)
+
+📁 Pre versão 1.7: 
+https://github.com/lucasrzb/CardapioEspecial/releases/tag/preversao1.7
    
   🎆Espero que teste e goste do projeto ❤️
