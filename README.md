@@ -4,7 +4,7 @@ A ideia e criar uma categoria de produtos que contém uma breve descrição sobr
 Entretanto o projeto e só uma ideia criativa para ter experiencia e aprendizado na area...
 
 
-📑 Arquivo do codigo: https://github.com/lucasrzb/CardapioEspecial/blob/main/cardapioespc.py
+📑 Arquivo do codigo: https://github.com/lucasrzb/CategoriaCompras/blob/main/categoriacompras.py
 
 📁 O que mudou na Versão 1.9?
 https://github.com/lucasrzb/CardapioEspecial/releases/tag/update1.9
