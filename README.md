@@ -6,6 +6,7 @@ Entretanto o projeto e só uma ideia criativa para ter experiencia e aprendizado
 👱 Projeto descontinuado, ultima versão 2.0
 
 📑 Arquivo do codigo: https://github.com/lucasrzb/CategoriaCompras/blob/main/categoriacompras.py
+Teste https://lucasrzb.github.io/Compras.web/
 
 📁 O que mudou na Versão 2.0?
 https://github.com/lucasrzb/CategoriaCompras/releases/tag/update2.0
